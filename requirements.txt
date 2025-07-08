@@ -5,4 +5,4 @@ seaborn
 numpy
 scikit-learn
 joblib
-tensorflow
+tensorflow-cpu==2.13.0
